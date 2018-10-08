@@ -1,0 +1,20 @@
+body{
+  background-image: url("images/racetrack.jpg");
+  color:white;
+  font-family:georgia;
+  background-repeat: no-repeat;
+  width:100%;
+  height: 700px;
+  background-size: contain;
+  background-position: center;
+  background-color: black;
+
+}
+header{
+  text-align:center;
+}
+#crash{
+  width:100px;
+  height:80px;
+  position:relative;
+}
